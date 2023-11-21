@@ -366,7 +366,7 @@ template<typename K, typename V>
 V* MultiHashMap<K,V>::GetAllElements(const K& key) const {
     int index = Hasher(key)%m_Capacity;
     Node* Indicator = m_Table[index];
-    int cap = M;
+    int cap = 31;
     V* ans = new V[cap];
     int cou = 1;
 
