@@ -1,0 +1,11 @@
+S D
+8
+A Ivanov 1.84
+A Petrova 1.66
+A Ivanov 1.90
+A Sidorov 1.90
+A Petrov 3.22
+A Sidorov 7.77
+A Sidorov 8.88
+R Sidorov
+Sidorov
